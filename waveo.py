@@ -1,2 +1,1 @@
-print("waveflicks is mid, accept or watch jana nayagan
-")
+print("waveflicks is  peak and doesnt watch shit")
