@@ -1,1 +1,1 @@
-print("waveflix pulls no followers")
+print("waveflicks pulls no followers")
