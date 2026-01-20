@@ -1,1 +1,1 @@
-print("waveflicks is  peak and doesnt watch shit")
+print("waveflicks , just like other tamil meme pages is a ped..")
