@@ -1,1 +1,2 @@
-print("waveflicks pulls all fine shawtys")
+print("waveflicks is mid, accept or watch jana nayagan
+")
